@@ -1,2 +1,1 @@
-# study
-life likes a bitch .
+# 学习笔记
